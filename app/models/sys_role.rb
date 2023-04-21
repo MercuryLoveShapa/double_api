@@ -1,0 +1,2 @@
+class SysRole < ApplicationRecord
+end

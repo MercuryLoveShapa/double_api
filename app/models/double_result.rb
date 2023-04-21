@@ -1,0 +1,2 @@
+class DoubleResult < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class DoubleSchedulesDoubleProject < ApplicationRecord
+end

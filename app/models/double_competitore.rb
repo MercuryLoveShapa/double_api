@@ -1,0 +1,2 @@
+class DoubleCompetitore < ApplicationRecord
+end

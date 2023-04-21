@@ -1,0 +1,2 @@
+class DoubleIndustry < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class DoubleAnnouncement < ApplicationRecord
+end

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sys_action_permissions: MyString
+  sys_action_permissions_sys_roles: MyString
+  sys_logs: MyString
+
+two:
+  sys_action_permissions: MyString
+  sys_action_permissions_sys_roles: MyString
+  sys_logs: MyString

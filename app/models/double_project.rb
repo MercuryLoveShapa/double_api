@@ -1,0 +1,2 @@
+class DoubleProject < ApplicationRecord
+end

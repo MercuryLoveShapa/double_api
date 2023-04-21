@@ -1,0 +1,2 @@
+class SysLog < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class SysActionPermissionsSysRole < ApplicationRecord
+end

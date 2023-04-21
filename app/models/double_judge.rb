@@ -1,0 +1,3 @@
+class DoubleJudge < ApplicationRecord
+
+end

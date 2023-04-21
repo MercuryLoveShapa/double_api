@@ -1,0 +1,2 @@
+class DoubleUser < ApplicationRecord
+end

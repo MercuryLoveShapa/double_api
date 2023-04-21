@@ -1,0 +1,2 @@
+class DoubleSchedule < ApplicationRecord
+end
